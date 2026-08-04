@@ -9,22 +9,22 @@ Comerciante(Proyecto)
 
 ├── backend
 
-│     ├── Express
+│  ├── Express
 
-│     ├── Prisma
+│  ├── Prisma
 
-│     ├── PostgreSQL
+│  ├── PostgreSQL
 
-│     └── Socket.IO
+│  └── Socket.IO
 
 │
 ├── frontend
 
-│     ├── Flutter
+│  ├── Flutter
 
-│     ├── Android
+│  ├── Android
 
-│     └── Windows
+│  └── Windows
 
 │
 └── docs
