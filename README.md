@@ -6,24 +6,26 @@ El proyecto que construiremos
 Será algo parecido a esto:
 
 Comerciante(Proyecto)
-
-├── backend
-
-│    ├── Express
-
-│    ├── Prisma
-
-│    ├── PostgreSQL
-
-│    └── Socket.IO
-
-├── frontend
-
+├── Backend/
+|    ├── database/
+|    │     schema.sql
+|    ├── src/
+|    │     ├── config/
+|    │     ├── controllers/
+|    │     ├── middlewares/
+|    │     ├── routes/
+|    │     ├── services/
+|    │     ├── sockets/
+|    │     ├── models/
+|    │     ├── app.js
+|    │     └── server.js
+|    ├── .env
+|    ├── .gitignore
+|    ├── package.json
+|    └── package-lock.json
+├── Frontend/
 │    ├── Flutter
-
 │    ├── Android
-
 │    └── Windows
-
-└── docs
+└── README.md
 
